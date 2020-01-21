@@ -1,6 +1,9 @@
 ---
 title:  "github.io 블로그 시작하기"
 excerpt: "github.io 블로그 초보를 위한 Tip"
+toc: true
+toc_sticky: true
+toc_label: "github.io 블로그 시작하기"
 
 categories:
   - Blog
